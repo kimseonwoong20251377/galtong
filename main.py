@@ -1,1 +1,1 @@
-print("second commit")
+print("add .gitignore file")
